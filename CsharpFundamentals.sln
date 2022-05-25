@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Operators", "03_Operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conditionals", "04_Conditionals\04_Conditionals.csproj", "{DA0B89D3-0448-4EE0-B8F8-2028DB26143B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Classes_Vehicle", "06_Classes_Vehicle\06_Classes_Vehicle.csproj", "{0049415F-BDCE-445E-968B-403871DECE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Classes_Person", "06_Classes_Person\06_Classes_Person.csproj", "{AAA25135-238B-4B21-AB82-C29C6205E3FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{DA0B89D3-0448-4EE0-B8F8-2028DB26143B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA0B89D3-0448-4EE0-B8F8-2028DB26143B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA0B89D3-0448-4EE0-B8F8-2028DB26143B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0049415F-BDCE-445E-968B-403871DECE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0049415F-BDCE-445E-968B-403871DECE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0049415F-BDCE-445E-968B-403871DECE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0049415F-BDCE-445E-968B-403871DECE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA25135-238B-4B21-AB82-C29C6205E3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA25135-238B-4B21-AB82-C29C6205E3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA25135-238B-4B21-AB82-C29C6205E3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA25135-238B-4B21-AB82-C29C6205E3FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
